@@ -16,4 +16,4 @@ dist
 
 .eslintrc.json
 gulpfile.js
-test.js
+*test.js
