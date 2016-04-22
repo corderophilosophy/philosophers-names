@@ -17,3 +17,4 @@ dist
 .eslintrc.json
 gulpfile.js
 *test.js
+.gitignore
